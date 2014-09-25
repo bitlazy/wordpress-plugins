@@ -1,4 +1,5 @@
 === Plugin Name ===
+Name: Tamil Thirukural
 Contributors: sandeepdude
 Donate link: 
 Tags: thirukural, tamil, thirukkural, tamil widget, wordpress tamil
